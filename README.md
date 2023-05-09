@@ -1,3 +1,5 @@
+ Short text clustering for determining center points and correlation judgment [Jenks Natural Breaks]
+
  这是一个简单判断多个短文本相关性的库。【需提供一个中心点，也就是需要选择一个短文本作为参照】
 
  主要适用于比如：相关文章推荐之后的，各个推荐标题是否过于紧密的判断
