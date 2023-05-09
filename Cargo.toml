@@ -1,0 +1,16 @@
+[package]
+authors = ["JN.X <xyanyue@gmail.com>"]
+description = "Clustering for determining the center point "
+edition = "2021"
+keywords = ["cluster"]
+license = "BSD-3-Clause"
+name = "CFDTCP"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+aho-corasick = "1.0.1"
+num-traits = "0.2.15"
+rand = "0.8.5"
+roaring = "0.10.1"
