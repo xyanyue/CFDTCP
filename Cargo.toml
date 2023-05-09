@@ -1,6 +1,6 @@
 [package]
 authors = ["JN.X <xyanyue@gmail.com>"]
-description = "Short text clustering for determining center points and correlation judgment [one-hot,Jenks Natural Breaks]"
+description = "Short text clustering  for determining center points and correlation judgment [one-hot,Jenks Natural Breaks]"
 edition = "2021"
 keywords = ["cluster", "shorttext", "correlation"]
 license = "BSD-3-Clause"
